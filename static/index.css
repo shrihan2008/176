@@ -77,3 +77,11 @@ body {
 .hidden {
     display: none
 }
+
+
+.button{
+    text-emphasis: circle;
+    color: #91c4d2;
+    font-size: 20px;
+    background-color: blanchedalmond;
+}
